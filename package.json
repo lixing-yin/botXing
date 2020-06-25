@@ -1,0 +1,23 @@
+{
+  "name": "botxing",
+  "version": "1.0.0",
+  "description": "This is a project that Li Xing develops a bot talks to others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixing-yin/botXing.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Li Xing Yin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lixing-yin/botXing/issues"
+  },
+  "homepage": "https://github.com/lixing-yin/botXing#readme"
+}
